@@ -1,5 +1,5 @@
 
-![ScreenShot1](https://github.com/salleya/ScreenShot1.png)
+![ScreenShot1](https://github.com/salleya/Drag_to_Draw/blob/master/ScreenShot1.png)
 
 # Drag_to_Draw
 A drag to draw program using Pygame
