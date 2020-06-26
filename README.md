@@ -12,4 +12,4 @@ Click "n" to select new random colors.
 
 Click "c" to clear the screen.
 
-![ScreenShot2](https://github.com/salleya/ScreenShot2.png)
+![ScreenShot2](https://github.com/salleya/Drag_to_Draw/blob/master/ScreenShot2.png)
