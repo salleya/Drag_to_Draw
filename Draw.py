@@ -1,7 +1,7 @@
 # Author: Amy Salley
 # Date: 15 June 2020
 # Description:  Creates three random colors and assigns each color to the mouse left
-# click, wheel and right click. Draws on a screen with those colors.
+# button, wheel and right button. Draws on a screen with those colors.
 
 import pygame
 import random
