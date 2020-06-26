@@ -62,7 +62,6 @@ radius = 10
 
 pygame.init()
 screen = pygame.display.set_mode(size)
-clock = pygame.time.Clock()
 
 pygame.display.set_caption("Click and drag to draw")
 
