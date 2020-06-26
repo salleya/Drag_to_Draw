@@ -1,5 +1,5 @@
 # Drag_to_Draw
-A drag to draw program using Pygame
+A drag to draw program using Pygame.
 
 Generates random colors for the mouse left button, right button and wheel.
 
