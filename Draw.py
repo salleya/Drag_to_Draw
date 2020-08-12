@@ -1,5 +1,4 @@
 # Author: Amy Salley
-# Date: 15 June 2020
 # Description:  Creates three random colors and assigns each color to the mouse left
 # button, wheel and right button. Draws on a screen with those colors.
 
