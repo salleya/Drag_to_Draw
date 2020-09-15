@@ -12,3 +12,4 @@ Click "c" to clear the screen.
 ![ScreenShot1](https://github.com/salleya/Drag_to_Draw/blob/master/ScreenShot1.png)
 
 ![ScreenShot2](https://github.com/salleya/Drag_to_Draw/blob/master/ScreenShot2.png)
+
